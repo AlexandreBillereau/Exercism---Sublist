@@ -1,3 +1,5 @@
+# :white_check_mark: SUCCESS :white_check_mark:
+
 # Sublist
 
 Welcome to Sublist on Exercism's Rust Track.
